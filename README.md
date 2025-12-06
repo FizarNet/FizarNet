@@ -6,14 +6,14 @@
 
 ---
 
-### 👾 About Me  
+### About Me  
 I operate under the alias **FizarNet**, focusing on offensive security and modern cybersecurity practices.  
 I analyze systems, exploit their weaknesses, and strengthen what matters.  
 No identity. No exposure. Only results.
 
 ---
 
-### 🛡️ Areas of Expertise
+### Areas of Expertise
 - Penetration Testing  
 - Network Security Hardening  
 - OSINT & Reconnaissance  
@@ -23,7 +23,7 @@ No identity. No exposure. Only results.
 
 ---
 
-### ⚙️ Tech Arsenal
+### Tech Arsenal
 #### Languages & Tools
 ![Python](https://skillicons.dev/icons?i=python)
 ![Javascript](https://skillicons.dev/icons?i=js)
@@ -36,14 +36,14 @@ No identity. No exposure. Only results.
 
 ---
 
-### 📡 Activity Status
+### Activity Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FizarNet&show_icons=true&count_private=true&hide_border=true&theme=dracula" />
 </p>
 
 ---
 
-### 🕶️ Anonymous Contact
+### Anonymous Contact
 - GitHub: **github.com/FizarNet**  
 - No social media  
 - No identity  
