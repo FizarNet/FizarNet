@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/6r0G0Jr/hacker-terminal.gif">
-</p>
 <h1 align="center">FizarNet</h1>
 <p align="center">
   <b>Cybersecurity & Offensive Security Specialist</b><br>
