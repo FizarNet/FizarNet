@@ -1,50 +1,65 @@
-<h1 align="center">FizarNet</h1>
 <p align="center">
-  <b>Cybersecurity & Offensive Security Specialist</b><br>
-  <i>Anonymous. Untraceable. Precision in Digital Warfare.</i>
+  <img src="https://i.ibb.co/ZcRT0G0/green-matrix-header.gif" width="700">
+</p>
+
+<h1 align="center">🜁 F I Z A R N E T 🜁</h1>
+<p align="center">
+  <i>Cybersecurity Operative • Offensive Security Engineer • Digital Ghost</i>
 </p>
 
 ---
 
-### About Me  
-I operate under the alias **FizarNet**, focusing on offensive security and modern cybersecurity practices.  
-I analyze systems, exploit their weaknesses, and strengthen what matters.  
-No identity. No exposure. Only results.
+## 👁️ Who Am I  
+I move in places most people never see.  
+Silent. Precise. Untraceable.  
+Operating under the alias <b>FizarNet</b>, I specialize in offensive security, digital infiltration, and high-level system analysis.  
+I don't reveal my identity. I reveal vulnerabilities.
 
 ---
 
-### Areas of Expertise
-- Penetration Testing  
-- Network Security Hardening  
-- OSINT & Reconnaissance  
-- Malware Analysis  
-- Exploit Development  
-- Secure Architecture & Risk Assessment  
+## 🕶️ Specialization
+- Advanced Penetration Testing  
+- Exploit Engineering  
+- Malware & Reverse Analysis  
+- Network Breach Simulation  
+- OSINT / Deep Recon  
+- Infrastructure Hardening  
+- Threat Intelligence & Attack Surface Mapping  
 
 ---
 
-### Tech Arsenal
-#### Languages & Tools
-![Python](https://skillicons.dev/icons?i=python)
-![Javascript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Vscode](https://skillicons.dev/icons?i=vscode)
-
----
-
-### Activity Status
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FizarNet&show_icons=true&count_private=true&hide_border=true&theme=dracula" />
+## 🜂 Cyber Arsenal
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,linux,git,vscode,cloudflare" />
 </p>
 
 ---
 
-### Anonymous Contact
+## 🜄 Operations Log (Stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FizarNet&show_icons=true&theme=chartreuse-dark&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FizarNet&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+---
+
+## 🜁 Field Notes  
+> “Security is not a job.  
+> It's a battlefield.”  
+> 
+> “Obscurity isn't a weakness — it's a weapon.”  
+
+---
+
+## 🔗 Anonymous Contact
 - GitHub: **github.com/FizarNet**  
-- No social media  
-- No identity  
-- Just the work  
+- All other lines are silent.  
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/6r0G0Jr/hacker-terminal.gif" width="600">
+</p>
