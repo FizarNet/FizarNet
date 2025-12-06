@@ -1,4 +1,4 @@
-<h1 align="center">🕶️ FizarNet</h1>
+<h1 align="center">FizarNet</h1>
 <p align="center">
   <b>Cybersecurity & Offensive Security Specialist</b><br>
   <i>Anonymous. Untraceable. Precision in Digital Warfare.</i>
